@@ -1,6 +1,6 @@
 <h1 align="left">David Ayala Muñoz</h1>
-<h3 align="left">Economista con un diplomado en econometría aplicada. 
-He realizado estudios en ciencia de datos en R, Análisis de datos en Excel y Power BI.</h3>
+<h3 align="left">Economista con Diplomado en Econometría Aplicada. 
+He realizado estudios en Ciencia de Datos en R, Análisis de Datos en Excel y Power BI.</h3>
 
 - 🔭Estoy trabajando en un proyecto particular de enseñanza. **Análisis de datos en R y Power BI.**
 
